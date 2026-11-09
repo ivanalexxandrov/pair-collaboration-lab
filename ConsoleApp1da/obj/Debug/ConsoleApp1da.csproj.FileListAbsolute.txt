@@ -1,0 +1,7 @@
+C:\Users\User\Music\Boris\ConsoleApp1da\obj\Debug\ConsoleApp1da.csproj.AssemblyReference.cache
+C:\Users\User\Music\Boris\ConsoleApp1da\obj\Debug\ConsoleApp1da.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\Boris\ConsoleApp1da\bin\Debug\ConsoleApp1da.exe.config
+C:\Users\User\Music\Boris\ConsoleApp1da\bin\Debug\ConsoleApp1da.exe
+C:\Users\User\Music\Boris\ConsoleApp1da\bin\Debug\ConsoleApp1da.pdb
+C:\Users\User\Music\Boris\ConsoleApp1da\obj\Debug\ConsoleApp1da.exe
+C:\Users\User\Music\Boris\ConsoleApp1da\obj\Debug\ConsoleApp1da.pdb
